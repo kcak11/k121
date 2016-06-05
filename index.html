@@ -2,5 +2,12 @@
 <html>
 <body>
 Access Restricted !!
+<script type="text/javascript">
+  if(window.top.location.protocol!=="https:"){
+    var refUrl=window.top.location.href+"";
+    refUrl=refUrl.replace("http:","https:");
+    window.top.location.replace(refUrl);
+  }
+</script>
 </body>
 </html>
