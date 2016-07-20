@@ -9,7 +9,7 @@
     }
     setTimeout(function () {
       doDelete();
-    }, 500);
+    }, 100);
   }
   doDelete();
 }());
