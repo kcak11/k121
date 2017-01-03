@@ -14,6 +14,19 @@ Access Restricted !!
   setTimeout(function(){window.top.location.replace("http://www.ashishkumarkc.com");},5000);
 </script>
   
-  You will now be redirected to the main page !! <br/>(Redirecting in 5 seconds . . .)
+  You will now be redirected to the main page !! <br/>(Redirecting in <span data-timer="this">5</span> seconds . . .)
+  <script type="text/javascript">
+  var elem=document.querySelectorAll("span[data-timer=this]")[0];
+  var ctr=5;
+  function updateTimer(){
+  if(ctr>0){
+	ctr--;
+	elem.innerHTML=ctr;
+  }else{
+  	setTimeout(function(){updateTimer();},1000);
+  }
+  }
+  setTimeout(function(){updateTimer();},1000);
+  </script>
 </body>
 </html>
