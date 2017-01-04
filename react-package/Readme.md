@@ -32,5 +32,6 @@ be used as an offline version of the react-redux setup.
     
 ### In addition to the above, the package also contains the **_Webpack_** bundler, **_Babel_** compiler & necessary **_Redux_** dependencies
 
+### Credits:
 #### The package has been built using the reactboilerplate available @ _http://www.reactboilerplate.com_
 #### A million thanks to _[mxstbr/react-boilerplate](https://github.com/mxstbr/react-boilerplate)_
