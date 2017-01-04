@@ -2,7 +2,7 @@
 
 ### This package contains the extracted components for the react application. 
 
-The package can be [downloaded here](https://github.com/kcak11/ContentRepos/raw/gh-pages/packages/ReactReduxApp_pkg.zip)
+The package can be used as an offline version of the react setup & can be [downloaded here](https://github.com/kcak11/ContentRepos/raw/gh-pages/packages/ReactReduxApp_pkg.zip)
 
 The list of modules (contained within this package) is as follows:
 
@@ -29,4 +29,4 @@ The list of modules (contained within this package) is as follows:
   \`-- rechoir@0.6.2  
     \`-- resolve@1.2.0  
     
-    
+## In addition to the above, the package also contains the Webpack bundler and Babel compiler
