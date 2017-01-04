@@ -10,7 +10,7 @@ The list of modules (contained within this package) is as follows:
 | +-- ansi-styles@2.2.1  
 | +-- escape-string-regexp@1.0.5  
 | +-- has-ansi@2.0.0  
-| | `-- ansi-regex@2.0.0  
+| | \`-- ansi-regex@2.0.0  
 | +-- strip-ansi@3.0.1  
 | `-- supports-color@2.0.0  
 `-- shelljs@0.7.5  
@@ -27,4 +27,6 @@ The list of modules (contained within this package) is as follows:
   | `-- path-is-absolute@1.0.1  
   +-- interpret@1.0.1  
   `-- rechoir@0.6.2  
-    `-- resolve@1.2.0
+    `-- resolve@1.2.0  
+    
+    
