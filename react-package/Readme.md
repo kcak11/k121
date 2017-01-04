@@ -6,14 +6,14 @@ The package can be [downloaded here](https://github.com/kcak11/ContentRepos/raw/
 
 The list of modules (contained within this package) is as follows:
 
-*+-- chalk@1.1.3
-*| +-- ansi-styles@2.2.1
-*| +-- escape-string-regexp@1.0.5
-*| +-- has-ansi@2.0.0
-*| | `-- ansi-regex@2.0.0
-*| +-- strip-ansi@3.0.1
-*| `-- supports-color@2.0.0
-*`-- shelljs@0.7.5
+* +-- chalk@1.1.3
+* | +-- ansi-styles@2.2.1
+* | +-- escape-string-regexp@1.0.5
+* | +-- has-ansi@2.0.0
+* | | `-- ansi-regex@2.0.0
+* | +-- strip-ansi@3.0.1
+* | `-- supports-color@2.0.0
+* `-- shelljs@0.7.5
 *  +-- glob@7.1.1
 *  | +-- fs.realpath@1.0.0
 *  | +-- inflight@1.0.6
