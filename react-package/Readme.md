@@ -3,7 +3,7 @@
 This package contains the extracted components for the react application and can  
 be used as an offline version of the react-redux setup.
 
-### [Download Package](https://github.com/kcak11/ContentRepos/raw/gh-pages/packages/ReactReduxApp_pkg.zip)
+## [Download Package](https://github.com/kcak11/ContentRepos/raw/gh-pages/packages/ReactReduxApp_pkg.zip)
 
 ## **The _list of modules_ (contained within this package) is as follows:**
 
