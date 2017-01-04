@@ -1,8 +1,8 @@
 # React Package 
 
-This package contains the extracted components for the react application. 
+This package contains the extracted components for the react application and can be used as an offline version of the react setup
 
-The package can be used as an offline version of the react setup & can be **[downloaded here](https://github.com/kcak11/ContentRepos/raw/gh-pages/packages/ReactReduxApp_pkg.zip)**
+### [Download Package](https://github.com/kcak11/ContentRepos/raw/gh-pages/packages/ReactReduxApp_pkg.zip)
 
 ## **The _list of modules_ (contained within this package) is as follows:**
 
@@ -29,4 +29,6 @@ The package can be used as an offline version of the react setup & can be **[dow
   \`-- rechoir@0.6.2  
     \`-- resolve@1.2.0  
     
-### In addition to the above, the package also contains the **_Webpack_** bundler and **_Babel_** compiler
+### In addition to the above, the package also contains the **_Webpack_** bundler and **_Babel_** compiler & necessary **_Redux_** dependencies
+
+#### The package has been built using the reactboilerplate available @ http://www.reactboilerplate.com
