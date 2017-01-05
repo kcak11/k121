@@ -33,6 +33,7 @@ Click the link below to get started . . .
     \`-- resolve@1.2.0  
     
 ### In addition to the above, the package also contains the 
+* **_React-router_**
 * **_React Addons_**
  * **_React-simpletabs_**
  * **_React-modal_**
