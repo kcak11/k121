@@ -32,7 +32,14 @@ Click the link below to get started . . .
   \`-- rechoir@0.6.2  
     \`-- resolve@1.2.0  
     
-### In addition to the above, the package also contains the **_Webpack_** bundler, **_Babel_** compiler & necessary **_Redux_** dependencies
+### In addition to the above, the package also contains the 
+* **_React Addons_**
+ * **_React-simpletabs_**
+ * **_React-modal_**
+* **_Webpack_** bundler
+* **_Babel-polyfill_**
+* **_Redux_** dependencies like 
+ * **_Redux-saga_**
 
 ### Credits:
 #### The package has been built using the reactboilerplate available @ _http://www.reactboilerplate.com_
