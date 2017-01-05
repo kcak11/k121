@@ -44,4 +44,4 @@ Click the link below to get started . . .
 
 ### Credits:
 #### The package has been built using the reactboilerplate available @ _http://www.reactboilerplate.com_
-#### A million thanks to _[mxstbr/react-boilerplate](https://github.com/mxstbr/react-boilerplate)_
+#### A million thanks to _[mxstbr/react-boilerplate](https://github.com/mxstbr/react-boilerplate/)_
